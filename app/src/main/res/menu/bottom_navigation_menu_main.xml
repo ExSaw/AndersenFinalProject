@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/characterListFragment"
+        android:title="@string/nav_menu_main_tab_one_text"
+        android:icon="@drawable/ic_baseline_accessibility_new_24"
+        />
+
+    <item
+        android:id="@+id/locationListFragment"
+        android:title="@string/nav_menu_main_tab_two_text"
+        android:icon="@drawable/ic_baseline_location_city_24"
+        />
+
+    <item
+        android:id="@+id/episodeListFragment"
+        android:title="@string/nav_menu_main_tab_three_text"
+        android:icon="@drawable/ic_baseline_local_movies_24"
+        />
+
+</menu>

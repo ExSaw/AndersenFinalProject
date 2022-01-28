@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickAndMortyAppV2</string>
+    <string name="nav_menu_main_tab_one_text">Characters</string>
+    <string name="nav_menu_main_tab_two_text">Locations</string>
+    <string name="nav_menu_main_tab_three_text">Episodes</string>
+    <string name="fragment_character_list_label">List of Characters</string>
+    <string name="fragment_character_details_label">Character Details</string>
+    <string name="fragment_episode_list_label">List of Episodes</string>
+    <string name="fragment_location_list_label">List of Locations</string>
+    <string name="fragment_character_search_label">Characters Search</string>
+</resources>
